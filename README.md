@@ -1,5 +1,7 @@
 # Info for SHA developers
 
+<!-- this is a test comment -->
+
 ## Configuration info
 npm install
 
